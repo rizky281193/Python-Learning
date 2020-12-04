@@ -15,8 +15,8 @@ To start this training, of course you need the ability to understand the python 
 
 ### Prerequisites
 
-  *Python Version > 3*
-  *IDE Tools (Here I am using pyCharm CE)*
+  - *Python Version > 3*
+  - *IDE Tools (Here I am using pyCharm CE)*
 
 ## Authors
 
