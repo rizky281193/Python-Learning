@@ -2,7 +2,7 @@ import cv2
 import  numpy as np
 
 ##### IMG Cropped and Resize #####
-img = cv2.imread("Resource/fotoApip.jpg")
+img = cv2.imread("Resource/lena.png")
 print(img.shape) # console to size
 
 # (width,height)

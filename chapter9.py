@@ -3,7 +3,7 @@ import  numpy as np
 
 ##### DETECTION FACE FROM IMAGE #####
 faceCasCade = cv2.CascadeClassifier('Resource/haarcascade_frontalface_default.xml')
-img = cv2.imread('Resource/fotoApip.jpg')
+img = cv2.imread('Resource/lena.png')
 imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 
 faces = faceCasCade.detectMultiScale(imgGray,1.1,4)

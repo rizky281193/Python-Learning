@@ -3,7 +3,7 @@ import  numpy as np
 
 # ##### IMAGE VIEW #####
 # # open image
-# img = cv2.imread("Resource/fotoApip.jpg")
+# img = cv2.imread("Resource/lena.png")
 #
 # # print result
 # cv2.imshow("Output", img)
